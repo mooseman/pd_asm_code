@@ -1,0 +1,53 @@
+
+   *** README  -  pd_asm_code  *** 
+
+ Just a few simple snippets of assembly code. 
+ I want to cover the following areas with these snippets -  
+
+*** Numbers *** 
+*  Simple maths operations on integers 
+*  Maths operations on floats 
+*  Find the minimum and maximum of a few numbers 
+*  Find the mean and median of a few numbers  
+*  A few examples of using arrays in assembly 
+
+*** Strings *** 
+*  Concatenate two strings 
+*  Split a string at position "n"  
+*  Find the length of a string 
+*  Get the first "n" chars of a string 
+*  Get the last "n" chars of a string 
+*  Get a substring of a string (start at position n, 
+       finish at position "m")  
+*  Search a string for a substring 
+*  Search an array of strings for a given string 
+*  Print a given element of an array 
+*  Convert a string to uppercase, lowercase, titlecase 
+
+*** Functions *** 
+*  A few maths and text functions 
+
+*** Lines *** 
+*  Read in a line of text into an array and print the array   
+*  Read in several lines, store them and then retrieve them 
+   ( maybe using the uparrow key as with shell-history )  
+*  Read a "command" and run a function depending on it  
+
+*** Data types *** 
+*  Create a function which takes one argument and returns 
+     the data-type of that argument (int, float, char, string...) 
+
+*** Other examples *** 
+*  Loops, if/then,  switch/case  
+*  Simple graphics 
+*  Example taking mouse input  
+
+
+All code here is released to the public-domain.  
+"Share and enjoy......."  ;)   
+
+
+
+
+
+
